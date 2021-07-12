@@ -28,7 +28,7 @@ twitter_username: richmond061094
 github_username:  richmond061094
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
