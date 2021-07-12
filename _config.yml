@@ -22,8 +22,8 @@ title: Richmond Manuel
 email: richmond061094@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Richmond's Portfolio Website.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/my-blog" # the subpath of your site, e.g. /blog
+url: "https://richmond061094.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: richmond061094
 github_username:  richmond061094
 
